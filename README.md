@@ -1,6 +1,6 @@
 # SI-Pricing-Tool
 Das Programm EuropeanClaimCRR.py habe ich für einige Artikel auf
-meiner Website (semperinvest.de) verwendet und möchte dieses kleine
+meiner Website (liberalfinance.de) verwendet und möchte dieses kleine
 Skript hier gerne zur Verfügung stellen. Es handelt sich hier um ein
 privates Hobby-Projekt. Für Fehlermeldungen und weitere Anmerkungen
 bin ich sehr dankbar.
