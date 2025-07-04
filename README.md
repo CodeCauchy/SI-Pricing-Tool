@@ -9,7 +9,7 @@ In der hier vorliegenden Version sind einige Klassen für das Pricing
 von europäischen Claims vorhanden (im CRR-Modell). Mehr Details kann
 man im Code nachlesen.
 
-Das Programm wurde in Python 3.10.11 geschrieben.Weiterhin wurden die
+Das Programm wurde in Python 3.10.11 geschrieben. Weiterhin wurden die
 folgenden Bibliotheken verwendet:
 -numpy
 -scipy
